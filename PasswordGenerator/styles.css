@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    background: #1F2937;
+    width: 500px;
+}
+
+.header{
+    font-family: 'Karla', sans-serif;
+    margin-left: 80px;
+}
+
+.title{
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+.white-header{
+    margin-top: 80px;
+    margin-bottom: 0;
+    color: white;
+}
+
+.green-header{
+    color: #4ADF86;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.prompt{
+    margin-top: 5px;
+    color: #D5D4D8;
+}
+
+#passwordLength{
+    width: 50px;
+    margin-left: 80px;
+}
+
+#btn{
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background: #10B981;
+    font-family: 'Karla',sans-serif;
+    font-weight: 500;
+    color: white;
+    margin-left: 15px;
+}
+
+.border{
+    border-bottom: 1px solid #273549;
+    width: 400px;
+    margin-left: 80px;
+}
+
+.result{
+    margin-left: 80px;
+}
+
+.result-btn{
+    border: none;
+    width: 150px;
+    padding: 15px;
+    line-height: 10px;
+    border-radius: 5px;
+    background: #273549;
+    color: #10B981;
+    font-family: 'Karla', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#result2{
+    margin-left: 20px;
+}
+
+.result-btn:hover{
+    background: #4ADF86;
+    color: #1F2937;
+}
